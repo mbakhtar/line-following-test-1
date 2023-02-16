@@ -1,0 +1,12 @@
+{
+    "roles": [
+        {
+            "name": "reflectedLight2",
+            "service": 309087410
+        },
+        {
+            "name": "reflectedLight3",
+            "service": 309087410
+        }
+    ]
+}
